@@ -1,9 +1,5 @@
 /*
   Shell
-  Versión: 1.6 (MARZO, 2025)
-
-  Autor(es): Pamela Herrera Pérez, Nayeli Velazques Tavera, Edgardo Adrian Franco Martínez.
-  
   Descripción general: Este programa implementa el algoritmo Shell para ordenar de manera ascendente una lista de números ingresados 
   (leídos desde un archivo). Es como una versión “con saltos” de Insertion Sort, solo que en lugar comparar elementos que están uno al lado 
   del otro, primero compara e intercambia elementos que están a cierta distancia entre sí. Luego se va reduciendo esa distancia hasta 

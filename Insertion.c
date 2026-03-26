@@ -1,9 +1,5 @@
 /*
   Insertion
-  Versión: 1.6 (MARZO, 2025)
-
-  Autor(es): Pamela Herrera Pérez, Nayeli Velazques Tavera, Edgardo Adrian Franco Martínez.
-  
   Descripción general: Este programa implementa el algoritmo Insertion Sort para ordenar de manera ascendente una lista de números ingresados 
   (leídos desde un archivo), lo que hace es tomar el primer elemento como el pivote y a partir de ahí va comparando los demás elementos y los 
   inserta en la posición que les corresponde del arreglo ordenado.

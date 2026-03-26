@@ -1,9 +1,5 @@
 /*
   Merge Sort
-  Versión: 1.5 (MARZO, 2025)
-
-  Autor(es): Pamela Herrera Pérez, Nayeli Velazques Tavera, Edgardo Adrian Franco Martínez.
-  
   Descripción general: Este programa implementa el algoritmo Merge Sort para ordenar de manera ascendente una lista de números ingresados 
   (leídos desde un archivo). Divide el arreglo en mitades, ordena cada mitad de forma recursiva y después combina los resultados en un solo arreglo ordenado.
 

@@ -1,9 +1,5 @@
 /*
   Quick Sort
-  Versión: 1.5 (MARZO, 2025)
-
-  Autor(es): Pamela Herrera Pérez, Nayeli Velazques Tavera, Edgardo Adrian Franco Martínez.
-  
   Descripción general: Este programa implementa el algoritmo Merge Sort para ordenar de manera ascendente una lista de números ingresados 
   (leídos desde un archivo), Escoge un pivote, parte el arreglo en dos en torno a él, de modo que los valores menores o iguales queden a un 
   lado y los mayores al otro, y luego ordena cada parte por separado.

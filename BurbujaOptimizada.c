@@ -1,9 +1,5 @@
 /*
   Burbuja Optimizada
-  Versión: 1.3 (MARZO, 2025)
-
-  Autor(es): Pamela Herrera Pérez, Nayeli Velazques Tavera, Edgardo Adrian Franco Martínez.
-  
   Descripción general: Este programa implementa el algoritmo Bubble Sort con una versión mejorada para ordenar de manera ascendente una lista de números 
   ingresados leídos desde un archivo, lo hace mediante la comparación de un par de elementos, los compara y posteriormente de ser necesario los intercambia.
 

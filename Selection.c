@@ -1,9 +1,5 @@
 /*
   Selection
-  Versión: 1.6 (MARZO, 2025)
-
-  Autor(es): Pamela Herrera Pérez, Nayeli Velazques Tavera, Edgardo Adrian Franco Martínez.
-  
   Descripción general: Este programa implementa el algoritmo Selection Sort para ordenar de manera ascendente una lista de números ingresados 
   (leídos desde un archivo), toma el primer elemento y los compara con el resto hasta encontrar el más pequeño y entonces los intercambia, después 
   toma el segundo elemento y se repite la acción.
